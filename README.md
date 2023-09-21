@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Project Deployed in Vercel: [ChatGPT App]()
+Project Deployed in Vercel: [ChatGPT App](https://nextjs13-openai-vercelsdkai-faztcode.vercel.app/)
 
 Nextjs 13 Project using:
 
